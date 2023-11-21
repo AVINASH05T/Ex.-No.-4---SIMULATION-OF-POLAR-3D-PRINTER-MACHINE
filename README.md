@@ -33,8 +33,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:AVINASH T
+### Register Number:23014109
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
