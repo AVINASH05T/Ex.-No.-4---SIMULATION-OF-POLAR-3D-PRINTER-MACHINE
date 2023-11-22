@@ -32,6 +32,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![image](https://github.com/AVINASH05T/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151514286/7710475c-ad14-42ed-9aec-b8390b30d32e)
 
 ### Name:AVINASH T
 ### Register Number:23014109
